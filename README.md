@@ -20,7 +20,7 @@ A modern, responsive web application for organizing and sharing educational reso
 
 - **Frontend**: React (Vite)
 - **Styling**: Tailwind CSS + Lucide Icons
-- **Backend**: Firebase Firestore (NoSQL)
+- **Backend**: Firebase Firestore 
 - **Authentication**: Firebase Authentication (Anonymous + Custom)
 - **Hosting**: Firebase Hosting
 
